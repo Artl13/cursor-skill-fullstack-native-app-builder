@@ -2,11 +2,9 @@
 
 # Cursor Skill — Full-Stack Native App Builder
 
-**A comprehensive Cursor AI skill for building production-ready apps across three platforms:**
+**A comprehensive Cursor AI skill for building production-ready apps across three platforms.**
 
-- **Node.js CMS** — Monolithic Express server with EJS views, Firebase or Supabase backend
-- **iOS** — SwiftUI + MVVM with Firebase, OpenAI, StoreKit 2
-- **Android** — Kotlin + Jetpack Compose + MVVM with Firebase, OpenAI, Google Play Billing
+`Node.js CMS` · `iOS (SwiftUI)` · `Android (Jetpack Compose)`
 
 All three platforms share the same Firebase backend and follow consistent architectural patterns.
 
