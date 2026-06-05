@@ -8,6 +8,19 @@ A comprehensive Cursor AI skill for building production-ready apps across three 
 
 All three platforms share the same Firebase backend and follow consistent architectural patterns.
 
+<p align="center">
+
+[![Cursor Skill](https://img.shields.io/badge/Cursor-Skill-000000?logo=cursor&logoColor=white)](https://cursor.com)
+[![Node.js CMS](https://img.shields.io/badge/Node.js-CMS-339933?logo=node.js&logoColor=white)](#nodejs-cms--admin-panel)
+[![SwiftUI](https://img.shields.io/badge/iOS-SwiftUI-F05138?logo=swift&logoColor=white)](#ios-app-swiftui)
+[![Jetpack Compose](https://img.shields.io/badge/Android-Jetpack%20Compose-3DDC84?logo=android&logoColor=white)](#android-app-kotlin--jetpack-compose)
+[![Firebase](https://img.shields.io/badge/Firebase-backend-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Supabase](https://img.shields.io/badge/Supabase-optional-3FCF8E?logo=supabase&logoColor=white)](#nodejs-cms--admin-panel)
+[![OpenAI](https://img.shields.io/badge/OpenAI-integration-412991?logo=openai&logoColor=white)](#important-notes--warnings)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+</p>
+
 ---
 
 ## What This Skill Covers
