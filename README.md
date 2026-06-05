@@ -8,7 +8,7 @@ A comprehensive Cursor AI skill for building production-ready apps across three 
 
 All three platforms share the same Firebase backend and follow consistent architectural patterns.
 
-<p align="center">
+<div align="center">
 
 [![Cursor Skill](https://img.shields.io/badge/Cursor-Skill-000000?logo=cursor&logoColor=white)](https://cursor.com)
 [![Node.js CMS](https://img.shields.io/badge/Node.js-CMS-339933?logo=node.js&logoColor=white)](#nodejs-cms--admin-panel)
@@ -19,7 +19,7 @@ All three platforms share the same Firebase backend and follow consistent archit
 [![OpenAI](https://img.shields.io/badge/OpenAI-integration-412991?logo=openai&logoColor=white)](#important-notes--warnings)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-</p>
+</div>
 
 ---
 
